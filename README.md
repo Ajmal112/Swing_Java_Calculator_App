@@ -1,6 +1,6 @@
 # Swing Java Calculator App
 
-![Calculator App Screenshot](Screenshot 2023-07-26 162247.png)
+![Calculator App Screenshot](./Screenshot%202023-07-26%20162247.png)
 
 ## Description
 This is a simple calculator application developed using Java Swing. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division. The user can interact with the calculator through a user-friendly graphical interface.
