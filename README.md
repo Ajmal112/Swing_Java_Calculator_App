@@ -27,8 +27,8 @@ Contributions are welcome! If you want to add new features, fix bugs, or improve
 This project is licensed under the [MIT License](./LICENSE).
 
 ## Author
-- Your Name
-- Email: your.email@example.com
+- Mohammed Ajmal
+- Email: freekyajmal@gmail.com
 - GitHub: [yourusername](https://github.com/Ajmal112/)
 
 ## Acknowledgments
