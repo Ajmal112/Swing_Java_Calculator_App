@@ -29,7 +29,7 @@ This project is licensed under the [MIT License](./LICENSE).
 ## Author
 - Mohammed Ajmal
 - Email: freekyajmal@gmail.com
-- GitHub: [yourusername](https://github.com/Ajmal112/)
+- GitHub: [Ajmal112](https://github.com/Ajmal112/)
 
 ## Acknowledgments
 Special thanks to [Eclipse][Swing].
