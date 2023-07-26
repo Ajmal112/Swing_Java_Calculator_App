@@ -12,8 +12,8 @@ This is a simple calculator application developed using Java Swing. It provides 
 
 ## How to Run
 1. Install Java on your system (JRE or JDK).
-2. Download the `CalculatorApp.jar` file from the [Releases](https://github.com/Ajmal112/Swing_Java_Calculator_App/releases) section.
-3. Double-click the `CalculatorApp.jar` file or run the following command in the terminal/command prompt:
+2. Download the `CalculatorApp.jar` file By Clicking the `View Raw` Link from the [Releases](https://github.com/Ajmal112/Swing_Java_Calculator_App/blob/main/src/Calculator/Calculator.jar) section.
+3. Go to `File Explorer` Double-click the `CalculatorApp.jar` file or run the following command in the terminal/command prompt:
 
 ## Screenshots
 
